@@ -79,7 +79,7 @@ set showcmd                     " show (partial) command in the last line of the
                                 "    this also shows visual selection info
 set nomodeline                  " disable mode lines (security measure)
 
-set relativenumber
+set number relativenumber
 filetype plugin on
 colorscheme desert
 
